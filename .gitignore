@@ -1,5 +1,5 @@
 plots/
 results/
 scripts/*.ipynb
-scripts/_pycache_
+scripts/__pycache__
 .ipynb_checkpoints/
